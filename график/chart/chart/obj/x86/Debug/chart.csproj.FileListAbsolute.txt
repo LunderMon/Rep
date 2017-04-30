@@ -1,0 +1,7 @@
+C:\Users\sanya\Desktop\график\chart\chart\obj\x86\Debug\chart.Form1.resources
+C:\Users\sanya\Desktop\график\chart\chart\obj\x86\Debug\chart.Properties.Resources.resources
+C:\Users\sanya\Desktop\график\chart\chart\obj\x86\Debug\chart.csproj.GenerateResource.Cache
+C:\Users\sanya\Desktop\график\chart\chart\bin\Debug\chart.exe
+C:\Users\sanya\Desktop\график\chart\chart\bin\Debug\chart.pdb
+C:\Users\sanya\Desktop\график\chart\chart\obj\x86\Debug\chart.exe
+C:\Users\sanya\Desktop\график\chart\chart\obj\x86\Debug\chart.pdb
